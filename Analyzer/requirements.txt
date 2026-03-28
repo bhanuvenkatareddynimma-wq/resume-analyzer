@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+python-docx
+rapidocr-onnxruntime
+fpdf2
+Pillow
+numpy
+opencv-python-headless
+pytesseract
