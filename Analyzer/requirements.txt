@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+python-docx
+rapidocr-onnxruntime
+easyocr
+fpdf2
+Pillow
+numpy
+opencv-python
+pytesseract
