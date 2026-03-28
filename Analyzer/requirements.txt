@@ -1,8 +1,0 @@
-streamlit
-pdfplumber
-python-docx
-pytesseract
-opencv-python-headless
-fpdf2
-Pillow
-numpy
