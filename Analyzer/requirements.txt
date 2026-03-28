@@ -1,6 +1,0 @@
-streamlit
-pdfplumber
-python-docx
-fpdf2
-Pillow
-numpy
