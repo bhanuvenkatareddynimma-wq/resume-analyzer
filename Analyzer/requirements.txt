@@ -1,8 +1,0 @@
-streamlit
-pdfplumber
-python-docx
-rapidocr-onnxruntime
-onnxruntime
-fpdf2
-Pillow
-numpy
